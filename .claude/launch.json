@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sorting-visualizer",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "http-server", "/Users/abhirami/Desktop/test", "-p", "8734", "-c-1"],
+      "port": 8734
+    }
+  ]
+}
